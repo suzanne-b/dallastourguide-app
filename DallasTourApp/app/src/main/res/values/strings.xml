@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Dallas Tour App</string>
+    <string name="tab_restaurants">Restaurants</string>
+    <string name="tab_shopping">Shopping</string>
+    <string name="tab_concerts">Concerts</string>
+    <string name="tab_sightseeing">Sightseeing</string>
+    <string name="photo_desc_text">Thumbnail photo</string>
+    <string name="section_format">Hello World from section: %$1d</string>
+    <string name="dallas">Dallas</string>
+    <string name="fort_worth">Fort Worth</string>
+    <string name="parker">Parker</string>
+
+
+    <!-- TAB restaurant and explanations !-->
+    <string name="restau_truck_yard">Truck Yard</string>
+    <string name="truck_yard_expl">Nothing describes Dallas to its essence as a beer garden.
+        Truck yard is all that and more.A perfect no fuss come-as-you-are adult playground.
+        Its great if you want to have a great time with locales and enjoy the outdoors while having
+        a good time.It is also kid friendly.</string>
+    <string name="restau_pecan_lodge">Pecan Lodge</string>
+    <string name="pecan_lodge_expl">Texas bbq at its finest.Expect a line for sure, but service
+        is super effective.Found in the hip neighborhood of Deep Ellum and, just a couple minutes
+        from downtown  Dallas it is definitely worth the trip.You could always walk around the neighborhood
+         and enjoy the other local businesses in the area.</string>
+    <string name="restau_rodeo_goat">Rodeo Goat</string>
+    <string name="rodeo_goat_expl">Best burger in the whole of Dallas.Ingredients are fresh  and they
+        have hand punched fries.They
+        got a wide selection of craft beers.If you visiting from out of town with your pets this
+        place is perfect because it is also pet friendly.</string>
+    <string name="restau_town_hearth">Town Hearth</string>
+    <string name="town_hearth_expl">Swankiest steakhouse in Dallas with about 100 chandeliers and a
+        Ducati parked in the restaurant.Super great vibe for a date night or just you want to want
+        to experience a rustic vibe with a touch of glitz.Great menu with raw bar,steaks and classic
+        cocktails.</string>
+
+    <!--TAB Shopping and explanation !-->
+    <string name="shop_galleria">Galleria</string>
+    <string name="galleria_expl">Galleria is shopping mall located near Interstate 635 and
+        Dallas North Tollway.It was originally developed by Hines Interests Limited Partnership
+        in 1982.It has beautiful ice skating at the center of the mall which Olympic athletes and
+        Olympic champions perform on once in a while.</string>
+    <string name="shop_north_park_center">Northpark center</string>
+    <string name="north_park_center_expl">It has more than 235 unique retailers, restaurants and
+        department stores.It is located at the intersection of loop 12 and US 75.This mall offers an unparalleled luxury shopping experience.It was
+        originally opened in 1965.</string>
+    <string name="shop_dallas_farmer_market">Dallas farmer market</string>
+    <string name="dallas_farmer_market_expl">Home to local vendors,merchants,artisans and craftmen
+         of the area.It is located downtown Dallas.It opens 7 days a week but super fun to visit on weekends and ideal brunch
+        location if you want to try a variety of local restaurants and food trucks.</string>
+    <string name="shop_highland_park_village">Highland park village</string>
+    <string name="highland_park_village_expl">An upscale shopping plaza located at the southwest
+        corner of Mockingbird lane and Preston Road in Higland Park,Texas.It was also declared
+        a National Historic landmark in 2000.It was the first self-contained shopping center in
+        America.</string>
+
+    <!--TAB concert ane explanations !-->
+    <string name="con_winspear_opera_house">Winspear Opera House</string>
+    <string name="winspear_opera_house_expl">Located in the Arts District of downtown Dallas, its a
+         a 21st century reinterpretation of the traditional opera house.It is also one of the
+         nations premier performing art venues.</string>
+    <string name="con_granada_theater">Granada Theater</string>
+    <string name="granada_theater_expl">A Dallas live music staple,it has been entertaining all ages
+         in North Texas and everywhere else since 1946.It is located in Lower Greenville
+         neighborhood  in Dallas.</string>
+    <string name="con_the_rustic">The Rustic</string>
+    <string name="the_rustic_expl">Located Uptown Dallas with great ambiance, it is prime spot if
+        you want to enjoy live music from some popular bands.If you lucky during your vist you
+        can catch a free concert too.</string>
+    <string name="con_adair_saloon">Adair Saloon</string>
+    <string name="adair_saloon_expl">Found in the neighborhood of Deep Ellum, its the perfect if you
+         want to two step to some honky tonk.It is also know t be the best country music in the area.
+         Do not forget to bring your cowboy hat and your boots.</string>
+
+    <!-- TAB sightseeing and explanation !-->
+    <string name="ss_jfk_museum">JFK museum</string>
+    <string name="jfk_museum_expl">Found on the sixth floor at the Dealy Plaza which was formerly the
+         Texas School Book Depository.It examines the life,times,death and legacy of President John
+         F.Kennedy.It also located at the very spot from where President John F.Kennedy was shot by
+         Lee Harvey Oswald. </string>
+    <string name="ss_fort_worth_stockyards">Fort Worth Stockyards</string>
+    <string name="fort_stock_stockyards_expl">The stockyards is a historic district in
+        Fort Worth,Texas.The 98-acre portion encompassing much of the district was listed on the
+        National Register of Historic places in 1976.</string>
+    <string name="ss_south_fork_ranch">South fork ranch</string>
+    <string name="south_fork_ranch_expl">A conference and event center in Parker,Texas.The ranch
+        includes the Ewing Mansion which was the set for the television show Dallas.You can also
+        have a guided tour of the ranch to see memorabilia from the series.</string>
+    <string name="ss_dallas_museum_of_arts">Dallas museum of arts</string>
+    <string name="dallas_museum_of_arts_expl">It is one of the largest art museums in America and
+        located in the arts district of downtown Dallas.It was founded in 1903.Its growing
+        collection contains one of the most important holdings of modern and contemporary art in
+        the U.S.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
